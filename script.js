@@ -11,7 +11,7 @@ const timer = document.querySelector('.timer');
 // Make an array of objects that stores question, choices of question and answer
 const quiz = [
     {
-        question: "Q.whp is the founder of facebook .",
+        question: "Q.who is the founder of facebook .",
         choices: ["Jeff bezos", "mark zuckerbarg", "larry page", "sunder pichai"],
         answer: "mark zuckerbarg"
     },
